@@ -1,7 +1,7 @@
 /* MAIN PAGE CODES AND STYLE */
 body {
- background-color: #dddddd;
- background-image: url('https://i.imgur.com/Z9bn32a.png');
+ background-color: #ededed;
+  background-image: url('https://i.imgur.com/Z9bn32a.png');
  background-attachment: left;
  background-repeat: repeat-y;
  font: normal 11px verdana;
@@ -41,7 +41,8 @@ body {
 	overflow: hidden;
 	padding:8px;
 	background-color:transparent;
-	background-image: url('https://i.imgur.com/ARGIPUf.png');
+	background-image: url('https://i.imgur.com/FjqAU8z.png');
+	background-repeat:repeat;
 	border-bottom: 4px dashed #82a6bd;
 	border-left:1px solid #999999;}
 	
