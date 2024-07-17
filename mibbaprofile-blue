@@ -1,0 +1,39 @@
+<style type="text/css">html body div #menu, html body div #menu a { font-family: arial; font-size:11px; background-color:#cecece; text-transform:uppercase; color:#efefef; margin-top:30px;} html body div #menu a:hover { text-decoration:underline;} /* MAIN STYLE AND TABLE PLACEMENTS */ BODY { background-color: #cecece;} #SSP-CONTAINER { width:730px; background-image:url(http://i.imgur.com/M4FXFXb.png); background-repeat:repeat; padding: 16px 16px 16px 16px; -webkit-transition: opacity 0.7s linear; -webkit-transition: all 0.4s ease-out; -moz-transition: all 0.4s ease-out; transition: all 0.4s ease-out; margin-bottom:1px; border-radius: 30px;} #MAIN { background-color:#fff; width:730px; color:#ffffff; border:20px; box-shadow: 0px 0px 0px 19px rgba(0,0,0,0.1); border-radius: 15px;} #ABOUT { background-color: #ffffff; padding:10px;} #ABOUT-SECTION { background-color: #fff; width:357px; padding: 5px 0px 0px 10px; float:left; color:#000000; border-radius:25px;} #ABOUT-CONTENT { background-color: #ffffff; color: #444444; font-family: georgia; font-size: 11px; text-align: justify;} #INFO-SECTION { background-color: #fff; width:350px; padding:10px 10px 0px 0px; float:right; color:#ffffff; border-radius:25px;} #info { background-color: #fff; padding:3px 0px 3px 3px;} #info dt { background-image: url(http://i1085.photobucket.com/albums/j428/shesaidpoptarts/background/2emj380_zpsskrjoz27.png); font: bold 11px tahoma; text-align:right; background-color: #ccc; color: #555;} #info dd { background-image: url(http://i1085.photobucket.com/albums/j428/shesaidpoptarts/background/2emj380_zpsskrjoz27.png); font-family: tahoma; font-size:11px; text-align:left; background-color: #ccc; color: #666;} #STORIES-CONTENT { background-image: url(http://i1085.photobucket.com/albums/j428/shesaidpoptarts/background/2emj380_zpsskrjoz27.png); background-color: #ffffff; color: #444444; font-family: georgia; font-size: 11px; text-align: justify; padding:2px;} #DISCLAIMER { font: normal 8px times; color:#93bac8; text-transform:uppercase; background-color: transparent; width:100%; float:center; padding: 0px 0px 3px 3px;} /* TITLE HEADERS AND IMAGE PLACEMENTS */ HR { border:none; border-bottom:1px dashed #ccc; background-color:transparent; height:1px; width:100%;} H1 { background-color:#fff; color: #000; text-align:left; font-family: arial; font-size:20px;} #IMAGE { background-color: #fff;} #IMAGE IMG { background-color: #fff; border: solid 1px #ccc; padding:5px;} .TITLE1 { background-color: #fff; color: #67bdcc; font-size: 20pt; font-family: tahoma; font-style:italic; font-weight:bold; letter-spacing:1px; line-height:20px; text-align: center; text-shadow: 0px 2px 1px #d1d1d1;} .SUB1 { background-color: #fff; color: #999; font-size: 11px; font-family: courier; font-style:italic; letter-spacing:3px; padding-bottom:5px; text-align: center;} .TITLE2 { background-color: #fff; color: #67bdcc; font-size: 23pt; font-family: tahoma; font-style:italic; font-weight:bold; letter-spacing:1px; line-height:20px; text-align: right; margin-right:6px; text-shadow: 0px 2px 1px #d1d1d1;} /* NAVIGATION LINKS */ a:LINK { text-decoration: none;} a:VISITED, ACTIVE { text-decoration: none; color: #bebebe;} a:HOVER { text-decoration: none; color: #888;} a { font: normal 11px georgia; color: #bebebe; text-transform:none; letter-spacing: 0px; text-align:center; cursor:ne-resize;} a.fics:LINK, a.fics:ACTIVE, a.fics:VISITED { font: normal 12px georgia; line-height: 9pt; text-align: justify; color: #2f7e9b; background-color:none; margin-bottom: 1px; padding-left: 5px; text-transform: uppercase; border: 0px;} a.fics:HOVER { font: italic 12px georgia; line-height: 9pt; text-align: justify; color: #444444; background-color:none; margin-bottom: 1px; padding-left: 5px; text-transform: uppercase; border: 0px;} a.cred:LINK, a.cred:ACTIVE, a.cred:VISITED { font: normal 10px verdana; line-height: 9pt; text-align: center; color: #777; background-color:none; text-transform: uppercase; border: 0px;} a.cred:HOVER { font: italic 10px verdana; line-height: 9pt; text-align: center; color: #444444; background-color:none; text-transform: uppercase; border: 0px;}</style>
+<center>
+<div id="SSP-CONTAINER">
+<div id="MAIN">
+<div id="INFO-SECTION">
+<div id="IMAGE"><img src="http://data.whicdn.com/images/234461263/large.jpg" width="320px" /></div>
+<!-- info_start -->
+<div id="info">{INFO}</div>
+<!-- info_end --></div>
+<div id="ABOUT-SECTION"><!-- about_start -->
+<div id="ABOUT">
+<div class="TITLE1">anything's possible</div>
+<div class="SUB1">if you've got enough nerve</div>
+<div id="ABOUT-CONTENT">
+<center>Hi, I'm Calli, I'm Native American blah blah blah.<br />
+I'm not a meanie, so you're more than welcome to ask me for help in any way. Although I probably won't be much help in editing anything, I'm a terrible writer. But I am pretty good with ideas. :)<br />
+<a href="http://www.instagram.com/caaalli" target="_blank">instagram</a> | <a href="http://www.twitter.com/SheSaidPoptarts" target="_blank">twitter</a> | <a href="http://www.fili-please.tumblr.com" target="_blank">tumblr</a>
+<p><img src="http://i1085.photobucket.com/albums/j428/shesaidpoptarts/dividers/fxcxur_zps14f851b2.png" /></p>
+<p><b>CAL · LI · LI · CIOUS</b><br />
+<i>[kah-lee-lish-uhs]</i><br />
+OG graphic maker, number 1 oilers fan, literal embodiment of positivity, emoji abuser</p>
+<p><b>tags:</b> #1D, #thestruggle, #hp, #mcjesus, #relatable, #cantdrive</p>
+<p><b>disclaimer:</b> does not actually like poptarts</p>
+</center>
+</div>
+<div class="TITLE2">stories</div>
+<div id="STORIES-CONTENT"><a href="" class="fics">story link</a><br />
+original/fanfic | status | genre | pairing<br />
+<a href="" class="fics">story link</a><br />
+original/fanfic | status | genre | pairing<br />
+<a href="" class="fics">story link</a><br />
+original/fanfic | status | genre | pairing</div>
+</div>
+<!-- about_end --></div>
+<hr />
+<div id="DISCLAIMER">© this layout was made by <a href="http://shesaidpoptarts.webs.com/" class="cred">She Said Poptarts</a>, images were found at <a href="http://weheartit.com/" class="cred">WeHeartIt</a></div>
+</div>
+</div>
+</center>
